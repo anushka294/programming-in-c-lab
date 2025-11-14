@@ -1,4 +1,4 @@
-// Maithili Dafale  25070521106
+// ANUSHKA SARODE(25070521076)
 // Working of arithemtical, logical, relational, conditional operators
 
 #include <stdio.h>
